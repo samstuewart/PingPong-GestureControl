@@ -1,0 +1,22 @@
+.score-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.score {
+    font-size: 1.5rem;
+    padding: 10px;
+    border: 2px solid #61dafb;
+    border-radius: 5px;
+    background-color: #20232a;
+}
+
+.left {
+    color: #61dafb;
+}
+
+.right {
+    color: #f28b82;
+}
